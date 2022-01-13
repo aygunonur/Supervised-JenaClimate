@@ -9,6 +9,8 @@ You can see an example about weather report.
 
 ### Convolutional Neural Network (CNN)
 
+#### Model:
+
 ![conv1](https://user-images.githubusercontent.com/76793880/149389726-53f11b5f-af75-4a6c-980a-f9bf067c3f07.png)
 
 #### Result:
